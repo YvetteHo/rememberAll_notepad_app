@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>NFCReaderUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSCalendarsUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSCameraUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSContactsUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSHealthShareUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSHomeKitUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSLocationUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSMotionUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSRemindersUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSSiriUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSVideoSubscriberAccountUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>NSFaceIDUsageDescription</key>
+	<string>Example: You should fill this in</string>
+
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+</dict>
+</plist>
