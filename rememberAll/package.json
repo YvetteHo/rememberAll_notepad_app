@@ -15,7 +15,7 @@
     "native-base": "^2.12.0",
     "react": "^16.5.0",
     "react-dom": "^16.6.3",
-    "react-native": "^0.57.1",
+    "react-native": "^0.70.2",
     "react-native-audio": "^4.3.0",
     "react-native-calendars": "^1.32.0",
     "react-native-camera": "^2.2.2",
